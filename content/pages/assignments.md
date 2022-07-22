@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the writing and oral presentation
+  assignments of the course, along with examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c891a8f5-1ab4-0ad5-7a49-119d6d5f5568
 ---
@@ -27,7 +32,7 @@ ASSIGNMENTS
 MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-Final paper ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn02)) (Courtesy of MIT Student. Used with permission.)
+Final paper ({{% resource_link c63ba2d2-a37a-ab3e-628a-70921bad76a0 "PDF" %}}) (Courtesy of MIT Student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +41,7 @@ Final paper ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn02)) (Courtesy of
 MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-Modernism ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn01)) (Courtesy of MIT Student. Used with permission.)
+Modernism ({{% resource_link f1d5c0c9-8d7f-cb1a-ede9-9fec31d61b75 "PDF" %}}) (Courtesy of MIT Student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +50,7 @@ Modernism ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn01)) (Courtesy of M
 MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-On growing up ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn03)) (Courtesy of MIT Student. Used with permission.)
+On growing up ({{% resource_link db752c7a-03d4-6662-d4d1-b69bc6843b15 "PDF" %}}) (Courtesy of MIT Student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

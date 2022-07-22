@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of readings and films for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0df5bf2b-d35f-8642-ebf5-b6c2fef12637
 ---

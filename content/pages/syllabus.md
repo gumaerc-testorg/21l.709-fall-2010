@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, a statement on plagiarism, and the schedule of lecture
+  topics and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 07262ecb-17c9-dcfc-0b5a-4b20d2be2be0
 ---
@@ -23,7 +28,7 @@ The class format for 21L.709 is group discussion with informal lectures by the i
 
 ### Readings
 
-Readings for this course include works by the philosopher Friedrich Nietzsche, the painter Paul Cézanne, the composer Arnold Schoenberg, the fiction writers James Joyce and Franz Kafka, the film directors Fritz Lang and Federico Fellini, and others. For a list of readings, please refer to the [Readings]({{< baseurl >}}/pages/readings) page.
+Readings for this course include works by the philosopher Friedrich Nietzsche, the painter Paul Cézanne, the composer Arnold Schoenberg, the fiction writers James Joyce and Franz Kafka, the film directors Fritz Lang and Federico Fellini, and others. For a list of readings, please refer to the {{% resource_link 0df5bf2b-d35f-8642-ebf5-b6c2fef12637 "Readings" %}} page.
 
 ### Grading
 
